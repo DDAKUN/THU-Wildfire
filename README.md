@@ -9,6 +9,7 @@ We introduce THU-Wildfire, the first integrated dataset of multitemporal and mul
 **Please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLScydu7G5nZO5ayeeiqmlQ8ibHu5O4VBuN8V4qvV8LEaV54pkQ/viewform?usp=sharing&ouid=118271888753834723056) to get the download link.**
 
 ## 🆕 News
+* Our paper is accepted by **EMS**🎉!
 * 2025-05-22: Data of *Ninuo* region has been released!
 * 2025-05-16: The subset of THU-Wildfire will be released soon 😊!
 
