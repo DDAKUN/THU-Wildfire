@@ -65,7 +65,7 @@ Region name
 
 ## 📚Citation
 ```
-@article{ZhouTHUFire2025,
+@article{ZhouTHUFire2026,
      title = {THU-Wildfire: A Multitemporal, Multimodal Observation Dataset for Wildfire Behavior Dynamics},
      journal = {Environmental Modelling & Software},
      pages = {106872},
@@ -75,14 +75,14 @@ Region name
      author = {Jiahao Zhou and Sen He and Shanjunxia Wu and Jia Zhang and Qiuhua Wang and Fei Wang}
 }
 
-@article{ZHOU2026105473,
-title = {Integrating UAV image time-series with multi-source environmental features for sequential wildfire spread prediction},
-journal = {International Journal of Applied Earth Observation and Geoinformation},
-volume = {152},
-pages = {105473},
-year = {2026},
-issn = {1569-8432},
-doi = {https://doi.org/10.1016/j.jag.2026.105473},
-author = {Jiahao Zhou and Sen He and Shanjunxia Wu and Qiuhua Wang and Fei Wang},
-}
+@article{ZhouSpread2026,
+     title = {Integrating UAV image time-series with multi-source environmental features for sequential wildfire spread prediction},
+     journal = {International Journal of Applied Earth Observation and Geoinformation},
+     volume = {152},
+     pages = {105473},
+     year = {2026},
+     issn = {1569-8432},
+     doi = {https://doi.org/10.1016/j.jag.2026.105473},
+     author = {Jiahao Zhou and Sen He and Shanjunxia Wu and Qiuhua Wang and Fei Wang},
+     }
 ```
