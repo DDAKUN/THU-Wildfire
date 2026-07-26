@@ -9,9 +9,9 @@ We introduce THU-Wildfire, the first integrated dataset of multitemporal and mul
 **Please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLScydu7G5nZO5ayeeiqmlQ8ibHu5O4VBuN8V4qvV8LEaV54pkQ/viewform?usp=sharing&ouid=118271888753834723056) to get the download link.**
 
 ## 🆕 News
-* 2025-01-12: Our paper is accepted by **EMS** [[Link]](https://www.sciencedirect.com/science/article/pii/S1364815226000198)🎉!
-* 2025-05-22: Data of *Ninuo* region has been released!
-* 2025-05-16: The subset of THU-Wildfire will be released soon 😊!
+* 2026-07: Our paper is accepted by **JAG** [[Link]](https://www.sciencedirect.com/science/article/pii/S1569843226003894)🎉
+* 2026-01: Our paper is accepted by **EMS** [[Link]](https://www.sciencedirect.com/science/article/pii/S1364815226000198)🎉!
+* 2025-05: Data of *Ninuo* region has been released!
 
 ## 🔢Data Structure
 
@@ -73,5 +73,16 @@ Region name
      issn = {1364-8152},
      doi = {https://doi.org/10.1016/j.envsoft.2026.106872},
      author = {Jiahao Zhou and Sen He and Shanjunxia Wu and Jia Zhang and Qiuhua Wang and Fei Wang}
+}
+
+@article{ZHOU2026105473,
+title = {Integrating UAV image time-series with multi-source environmental features for sequential wildfire spread prediction},
+journal = {International Journal of Applied Earth Observation and Geoinformation},
+volume = {152},
+pages = {105473},
+year = {2026},
+issn = {1569-8432},
+doi = {https://doi.org/10.1016/j.jag.2026.105473},
+author = {Jiahao Zhou and Sen He and Shanjunxia Wu and Qiuhua Wang and Fei Wang},
 }
 ```
